@@ -1,2 +1,2 @@
-# Discord-Music-Bot-
+# Discord-Music-Bot
 A Simple Discord Music Bot Using Playwright
